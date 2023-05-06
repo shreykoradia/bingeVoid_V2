@@ -36,17 +36,23 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link: '#',
+
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    link: '#',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    link: '#',
+
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'discord',
+    url: '/discord.svg',
+    link: 'https://discord.com/channels/1081564013160316970/1081564014238244890',
   },
 ];
