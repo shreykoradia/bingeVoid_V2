@@ -53,6 +53,6 @@ export const socials = [
   {
     name: 'discord',
     url: '/discord.svg',
-    link: 'https://discord.com/channels/1081564013160316970/1081564014238244890',
+    link: 'https://discord.gg/SHuCSg9SxC',
   },
 ];
