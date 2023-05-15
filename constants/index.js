@@ -36,18 +36,18 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
-    link: '#',
+    link: 'https://twitter.com/bingeVoid',
 
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
-    link: '#',
+    link: 'https://github.com/HackathonFleet',
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
-    link: '#',
+    link: 'https://www.instagram.com/bingevoid/',
 
   },
   {
