@@ -27,9 +27,11 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Share Anime Content with the otaku community by just a tap!',
+  'Create Your Account and get started along with the otakus on the void app',
   'Get latest news for anime events happening around the town :/  ',
+  'Share Anime Content with the otaku community by just a tap!',
   'Find Anime Friends to hang-out virtually and create communities',
+  'Share Anime Content (Manga, Comics , Art & much more...)',
 ];
 
 export const socials = [
