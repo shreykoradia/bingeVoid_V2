@@ -1,35 +1,35 @@
 export const exploreWorlds = [
   {
     id: 'world-1',
-    imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    imgUrl: '/pic-3.jpg',
+    title: 'Tanken (探検)',
   },
   {
     id: 'world-2',
-    imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    imgUrl: '/pic-4.jpg',
+    title: 'Bouken (ぼうけん)',
   },
   {
     id: 'world-3',
-    imgUrl: '/planet-03.png',
-    title: 'Edens Zero',
+    imgUrl: '/pic-5.jpg',
+    title: 'Isekai (世界)',
   },
   {
     id: 'world-4',
-    imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    imgUrl: '/pic-6.jpg',
+    title: 'Mahō (魔法)',
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    imgUrl: '/planet-07.png',
+    title: 'Yume (夢)',
   },
 ];
 
 export const startingFeatures = [
-  'Find an Anime that suits you and you want to see around',
-  'Create Anime Content and Binge it on the Void Applications',
-  'No need to beat around the bush, just stay on the app and have fun',
+  'Share Anime Content with the otaku community by just a tap!',
+  'Get latest news for anime events happening around the town :/  ',
+  'Find Anime Friends to hang-out virtually and create communities',
 ];
 
 export const socials = [
