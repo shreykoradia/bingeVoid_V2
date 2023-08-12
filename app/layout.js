@@ -1,5 +1,5 @@
 /* eslint-disable import/no-unresolved */
-import { Analytics } from '@vercel/analytics/react';
+import { Analytics } from '../components/Analytics';
 import '../styles/globals.css';
 
 const RootLayout = ({ children }) => (
