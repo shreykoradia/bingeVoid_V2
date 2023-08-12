@@ -2,4 +2,4 @@
 
 import { Analytics as VercelAnalytics } from '@vercel/analytics';
 
-export const Analytics = () => <VercelAnalytics mode="production" />;
+export const Analytics = (props) => <VercelAnalytics {...props} />;

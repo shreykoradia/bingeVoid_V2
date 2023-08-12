@@ -1,5 +1,3 @@
-/* eslint-disable import/no-unresolved */
-import { Analytics } from '../components/Analytics';
 import '../styles/globals.css';
 
 const RootLayout = ({ children }) => (
@@ -10,7 +8,6 @@ const RootLayout = ({ children }) => (
     </head>
     <body>
       {children}
-      <Analytics />
     </body>
   </html>
 );
